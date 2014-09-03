@@ -1,4 +1,6 @@
-from math import sqrt
+"""
+Project Euler problems in Python
+"""
 
 def euler1():
     """Find the sum of all numbers under 1,000 divisible by 3 or 5"""

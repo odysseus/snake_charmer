@@ -1,3 +1,8 @@
+"""
+Simple Tic-Tac-Toe game
+"""
+
+
 class Board(object):
     class Space(object):
         """
